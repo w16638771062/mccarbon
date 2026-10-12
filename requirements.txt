@@ -1,0 +1,8 @@
+# 麦门年度账单 · mcd-year-in-review
+
+# 本项目零第三方依赖，直接运行即可。
+# 如需本地安装，仅用于把包纳入 Python 路径：
+#   pip install -e .
+
+# 麦当劳 MCP Token 请通过环境变量注入，不要写入任何文件：
+#   export MCD_MCP_TOKEN="your_token"

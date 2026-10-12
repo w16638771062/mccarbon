@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>麦麦碳账本 · 麦门信徒</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #E9F1EB;
+  color: #12211A;
+  font-family: system-ui, -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  padding: 28px 16px 48px;
+}
+.page { max-width: 760px; margin: 0 auto; }
+.card { background: #FFFFFF; border-radius: 18px; padding: 26px 26px 24px; margin-bottom: 16px; box-shadow: 0 1px 0 rgba(0,0,0,0.03); }
+.hero {
+  background: linear-gradient(135deg, #0E7A4E 0%, #16A34A 100%);
+  border-radius: 18px; padding: 30px 28px 28px; margin-bottom: 16px;
+  color: #FFFFFF; position: relative; overflow: hidden;
+}
+.hero:after {
+  content: ""; position: absolute; right: -50px; bottom: -80px;
+  width: 200px; height: 200px; border-radius: 50%; background: #FFC72C; opacity: 0.9;
+}
+.hero .kicker { font-size: 12px; letter-spacing: 2px; opacity: 0.88; }
+.hero h1 { font-size: 28px; font-weight: 500; margin: 10px 0 6px; letter-spacing: 0.5px; }
+.hero .sub { font-size: 13px; opacity: 0.92; }
+.hero .big { font-size: 46px; font-weight: 600; margin-top: 18px; line-height: 1.05; position: relative; z-index: 1; }
+.hero .big span { font-size: 18px; font-weight: 400; margin-left: 8px; opacity: 0.92; }
+.hero .grade { position: absolute; right: 28px; top: 30px; z-index: 2; text-align: center; }
+.hero .grade .g { font-size: 40px; font-weight: 700; line-height: 1; text-shadow: 0 1px 2px rgba(0,0,0,0.18); }
+.hero .grade .t { font-size: 11px; margin-top: 4px; opacity: 0.95; }
+.hero .hint { font-size: 13px; margin-top: 12px; position: relative; z-index: 1; opacity: 0.95; }
+h2 { font-size: 15px; font-weight: 500; margin-bottom: 4px; }
+.hint { font-size: 12px; color: #6E7F76; margin-bottom: 18px; }
+.numbers { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.num { background: #F4FAF5; border-radius: 12px; padding: 16px 14px; }
+.num .v { font-size: 22px; font-weight: 500; color: #0E7A4E; line-height: 1.15; }
+.num .v small { font-size: 12px; font-weight: 400; color: #6E7F76; margin-left: 2px; }
+.num .k { font-size: 12px; color: #6E7F76; margin-top: 6px; }
+.two { display: grid; grid-template-columns: 260px 1fr; gap: 24px; align-items: center; }
+.legend { font-size: 13px; }
+.legend .row { display: flex; align-items: center; gap: 8px; padding: 7px 0; }
+.legend .dot { width: 10px; height: 10px; border-radius: 3px; flex: none; }
+.legend .nm { flex: 1; }
+.legend .pc { color: #6E7F76; font-variant-numeric: tabular-nums; }
+.cat { padding: 9px 0; }
+.cat .top { display: flex; justify-content: space-between; font-size: 13px; margin-bottom: 6px; }
+.cat .top .pc { color: #6E7F76; font-variant-numeric: tabular-nums; }
+.cat .track { height: 9px; background: #EDF3EE; border-radius: 5px; overflow: hidden; }
+.cat .track i { display: block; height: 100%; border-radius: 5px; }
+.fun { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.fun .f { background: #F4FAF5; border-radius: 12px; padding: 16px; }
+.fun .f .v { font-size: 20px; font-weight: 500; color: #0E7A4E; }
+.fun .f .k { font-size: 12px; color: #6E7F76; margin-top: 4px; line-height: 1.5; }
+.rec { display: flex; gap: 14px; padding: 13px 0; border-bottom: 1px dashed #DDE9E1; font-size: 13px; align-items: baseline; }
+.rec:last-child { border-bottom: none; }
+.rec .rank { width: 22px; height: 22px; border-radius: 50%; background: #DCFCE7; color: #0E7A4E; font-size: 12px; font-weight: 600; display: flex; align-items: center; justify-content: center; flex: none; }
+.rec .body { flex: 1; }
+.rec .body .h { display: flex; justify-content: space-between; gap: 10px; }
+.rec .body .h b { font-weight: 500; }
+.rec .body .h .save { color: #0E7A4E; font-weight: 600; font-variant-numeric: tabular-nums; white-space: nowrap; }
+.rec .body .d { color: #6E7F76; font-size: 12px; margin-top: 4px; line-height: 1.55; }
+.rec .body .effort { display: inline-block; font-size: 10px; padding: 1px 7px; border-radius: 6px; background: #EDF3EE; color: #6E7F76; margin-top: 6px; }
+.heavy { display: flex; gap: 16px; font-size: 13px; line-height: 1.7; }
+.heavy .lb { color: #6E7F76; width: 92px; flex: none; }
+.heavy .vl { flex: 1; }
+.heavy .vl b { color: #0E7A4E; font-weight: 600; }
+footer { text-align: center; font-size: 12px; color: #82958A; margin-top: 22px; line-height: 1.8; }
+footer .meth { text-align: left; background: #FFFFFF; border-radius: 14px; padding: 18px 20px; color: #6E7F76; margin-bottom: 14px; font-size: 11.5px; line-height: 1.75; }
+footer .meth b { color: #12211A; font-weight: 500; }
+@media (max-width: 620px) {
+  .numbers, .fun { grid-template-columns: 1fr 1fr; }
+  .two { grid-template-columns: 1fr; }
+  .hero .big { font-size: 36px; }
+  .hero .grade { right: 20px; top: 24px; }
+}
+</style>
+</head>
+<body>
+<div class="page">
+
+  <div class="hero">
+    <div class="grade"><div class="g" style="color:#DC2626">E</div>
+      <div class="t">碳排大户</div></div>
+    <div class="kicker">MCCARBON · 麦麦碳账本</div>
+    <h1>你的麦门碳足迹</h1>
+    <div class="sub">麦门信徒 · 深圳 · M****1024 · 金卡会员 · 2026-01-01 ~ 2026-10-11</div>
+    <div class="big">359<span>kg CO2e</span></div>
+    <div class="hint">高碳饮食，减排潜力很大</div>
+  </div>
+
+  <div class="card">
+    <h2>碳排放的三层结构</h2>
+    <div class="hint">餐品是主战场，包装次之，配送本身占比最小——所以「到店自提」比重选择更立竿见影</div>
+    <div class="two">
+      <div><svg viewBox="0 0 220 220" width="220" height="220" role="img" aria-label="碳排放三层结构"><circle cx="110.0" cy="110.0" r="76" fill="none" stroke="#0E7A4E" stroke-width="26" stroke-dasharray="439.60 37.92" stroke-dashoffset="-0.00" transform="rotate(-90 110.0 110.0)"/><circle cx="110.0" cy="110.0" r="76" fill="none" stroke="#7BC49A" stroke-width="26" stroke-dasharray="36.14 441.38" stroke-dashoffset="-439.60" transform="rotate(-90 110.0 110.0)"/><circle cx="110.0" cy="110.0" r="76" fill="none" stroke="#FFC72C" stroke-width="26" stroke-dasharray="1.79 475.74" stroke-dashoffset="-475.74" transform="rotate(-90 110.0 110.0)"/><text x="110.0" y="106.0" text-anchor="middle" font-size="26" font-weight="600" fill="#12211A">359</text><text x="110.0" y="128.0" text-anchor="middle" font-size="11" fill="#6E7F76">kg CO2e</text></svg><div style="text-align:center;font-size:12px;color:#6E7F76;margin-top:2px">餐品层占 92%</div></div>
+      <div class="legend"><div class="row"><span class="dot" style="background:#0E7A4E"></span><span class="nm">餐品层</span><span class="pc">330 kg · 92%</span></div><div class="row"><span class="dot" style="background:#7BC49A"></span><span class="nm">包装层</span><span class="pc">27.2 kg · 8%</span></div><div class="row"><span class="dot" style="background:#FFC72C"></span><span class="nm">配送层</span><span class="pc">1.34 kg · 0%</span></div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>这笔碳足迹有多大</h2>
+    <div class="hint">把 kg CO2e 换成更容易感知的单位</div>
+    <div class="fun"><div class="f"><div class="v">17.1 <small style="font-size:12px">棵</small></div><div class="k">相当于这些树一年的固碳量</div></div><div class="f"><div class="v">2,111 <small style="font-size:12px">公里</small></div><div class="k">约等于汽油车行驶的排放</div></div><div class="f"><div class="v">43,759 <small style="font-size:12px">次</small></div><div class="k">够给手机充电的次数</div></div></div>
+    <div style="height:14px"></div>
+    <div class="numbers"><div class="num"><div class="v">195</div><div class="k">笔订单</div></div><div class="num"><div class="v">475</div><div class="k">件餐品</div></div><div class="num"><div class="v">1.84</div><div class="k">kg / 单</div></div></div>
+  </div>
+
+  <div class="card">
+    <h2>每月碳足迹</h2>
+    <div class="hint">峰值月份往往就是「牛肉 + 外送」叠加的结果</div>
+    <svg viewBox="0 0 700 236" width="100%" role="img" aria-label="按月碳足迹柱状图"><rect x="47.9" y="79.5" width="35.4" height="96.5" rx="4" fill="#AFDCC0"/><text x="65.6" y="73.5" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">37.0</text><text x="65.6" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-01</text><rect x="111.1" y="62.5" width="35.4" height="113.5" rx="4" fill="#AFDCC0"/><text x="128.8" y="56.5" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">43.5</text><text x="128.8" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-02</text><rect x="174.3" y="34.0" width="35.4" height="142.0" rx="4" fill="#0E7A4E"/><text x="192.0" y="28.0" text-anchor="middle" font-size="10.5" fill="#0E7A4E" font-weight="600">54.4</text><text x="192.0" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-03</text><rect x="237.5" y="88.9" width="35.4" height="87.1" rx="4" fill="#AFDCC0"/><text x="255.2" y="82.9" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">33.4</text><text x="255.2" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-04</text><rect x="300.7" y="64.0" width="35.4" height="112.0" rx="4" fill="#AFDCC0"/><text x="318.4" y="58.0" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">42.9</text><text x="318.4" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-05</text><rect x="363.9" y="80.6" width="35.4" height="95.4" rx="4" fill="#AFDCC0"/><text x="381.6" y="74.6" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">36.6</text><text x="381.6" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-06</text><rect x="427.1" y="96.4" width="35.4" height="79.6" rx="4" fill="#AFDCC0"/><text x="444.8" y="90.4" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">30.5</text><text x="444.8" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-07</text><rect x="490.3" y="79.8" width="35.4" height="96.2" rx="4" fill="#AFDCC0"/><text x="508.0" y="73.8" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">36.9</text><text x="508.0" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-08</text><rect x="553.5" y="89.7" width="35.4" height="86.3" rx="4" fill="#AFDCC0"/><text x="571.2" y="83.7" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">33.1</text><text x="571.2" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-09</text><rect x="616.7" y="148.4" width="35.4" height="27.6" rx="4" fill="#AFDCC0"/><text x="634.4" y="142.4" text-anchor="middle" font-size="10.5" fill="#6E7F76" font-weight="400">10.6</text><text x="634.4" y="196.0" text-anchor="middle" font-size="10" fill="#6E7F76">26-10</text><line x1="34" y1="176" x2="666" y2="176" stroke="#DDE9E1" stroke-width="1"/></svg>
+  </div>
+
+  <div class="card">
+    <h2>碳重集中在哪类食材</h2>
+    <div class="hint">动物性蛋白（尤其牛肉）是整个账本的决定性变量</div>
+    <div class="cat"><div class="top"><span>牛肉类 <span style="color:#6E7F76">· 78 件</span></span><span class="pc">195 kg · 54%</span></div><div class="track"><i style="width:100.0%;background:#DC2626"></i></div></div><div class="cat"><div class="top"><span>鸡肉类 <span style="color:#6E7F76">· 120 件</span></span><span class="pc">77.3 kg · 22%</span></div><div class="track"><i style="width:39.6%;background:#F59E0B"></i></div></div><div class="cat"><div class="top"><span>早餐 <span style="color:#6E7F76">· 26 件</span></span><span class="pc">15.9 kg · 4%</span></div><div class="track"><i style="width:8.2%;background:#F97316"></i></div></div><div class="cat"><div class="top"><span>鱼类 <span style="color:#6E7F76">· 14 件</span></span><span class="pc">11.5 kg · 3%</span></div><div class="track"><i style="width:5.9%;background:#3B82F6"></i></div></div><div class="cat"><div class="top"><span>饮品 <span style="color:#6E7F76">· 105 件</span></span><span class="pc">10.6 kg · 3%</span></div><div class="track"><i style="width:5.5%;background:#06B6D4"></i></div></div><div class="cat"><div class="top"><span>咖啡 <span style="color:#6E7F76">· 42 件</span></span><span class="pc">7.85 kg · 2%</span></div><div class="track"><i style="width:4.0%;background:#8B5CF6"></i></div></div><div class="cat"><div class="top"><span>小食 / 薯类 <span style="color:#6E7F76">· 50 件</span></span><span class="pc">6.37 kg · 2%</span></div><div class="track"><i style="width:3.3%;background:#84CC16"></i></div></div><div class="cat"><div class="top"><span>甜品 <span style="color:#6E7F76">· 40 件</span></span><span class="pc">5.83 kg · 2%</span></div><div class="track"><i style="width:3.0%;background:#EC4899"></i></div></div>
+  </div>
+
+  <div class="card">
+    <h2>最碳重的一单</h2>
+    <div class="hint">看看那天你点了什么</div>
+    <div class="heavy"><div class="lb">最碳重一单</div><div class="vl">2026-01-27 20:45</div><div class="lb">门店</div><div class="vl">机场 T3 店</div><div class="lb">餐品</div><div class="vl">双层吉士汉堡、麦乐鸡（5块）、可乐（中）</div><div class="lb">估算排放</div><div class="vl"><b>3.78 kg CO2e</b>（含包装与配送）</div></div>
+  </div>
+
+  <div class="card">
+    <h2>减排模拟器</h2>
+    <div class="hint">按可减排量排序——只算「换一下能少多少」，不替你做选择</div>
+    <div class="rec"><div class="rank">1</div><div class="body"><div class="h"><b>红肉换白肉</b><span class="save">-117 kg（33%）</span></div><div class="d">把 78 份牛肉汉堡换成鸡肉堡（每份约 1.00 kg CO2e）</div><span class="effort">需要一点取舍</span></div></div><div class="rec"><div class="rank">2</div><div class="body"><div class="h"><b>外送改自提</b><span class="save">-24.6 kg（7%）</span></div><div class="d">把 86 笔外送改成到店自提，省下一次性包装与配送段排放</div><span class="effort">轻松</span></div></div><div class="rec"><div class="rank">3</div><div class="body"><div class="h"><b>甜品减半</b><span class="save">-2.92 kg（1%）</span></div><div class="d">甜品与冰淇淋减半，乳制品是这部分的主要来源</div><span class="effort">轻松</span></div></div><div class="rec"><div class="rank">4</div><div class="body"><div class="h"><b>小食减四分之一</b><span class="save">-1.59 kg（0%）</span></div><div class="d">小食（薯条 / 鸡块 / 沙拉）少点约四分之一，碳强度不高但基数大</div><span class="effort">轻松</span></div></div>
+  </div>
+
+  <footer>
+    <div class="meth">
+      <b>方法学与免责声明</b><br/>
+      · 本账本为<b>估算值</b>，非麦当劳官方披露数据，仅用于横向对比与减排方向判断。<br/>
+      · 餐品层：参考 Vegan Society「Plate Up For The Planet」实测餐品碳足迹、
+        ADEME Agribalyse 快餐汉堡品类 LCA（18.6 kg CO2e/kg，农业环节占 92.5%）。<br/>
+      · 包装层：参考《中国产品全生命周期温室气体排放系数库》（PP 餐盒 186.18 g CO2e/个、
+        餐具 54 g/套、塑料袋 19 g/个），按渠道分摊。<br/>
+      · 配送层：参考国内外卖研究（每单平均 111.80 g CO2e，其中包装占 86%，配送段约 15.6 g）。<br/>
+      · 具名因子覆盖率 100%，其余餐品按同类中值外推。
+    </div>
+    数据来源：离线示例数据（--mock）<br/>
+    基于麦当劳 MCP 构建 · 非麦当劳官方产品 · 生成于 2026-10-12 17:40
+  </footer>
+
+</div>
+</body>
+</html>

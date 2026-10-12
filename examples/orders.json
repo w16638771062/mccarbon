@@ -1,0 +1,4802 @@
+[
+  {
+    "orderId": "MC202601010001",
+    "time": "2026-01-01 18:00:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 28.04,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601020002",
+    "time": "2026-01-02 13:52:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 33.42,
+    "listed": 40.5,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601030003",
+    "time": "2026-01-03 12:52:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 33.42,
+    "listed": 40.5,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601050004",
+    "time": "2026-01-05 09:00:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 25.0,
+    "listed": 25.0,
+    "items": [
+      {
+        "name": "猪柳蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 15.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601070005",
+    "time": "2026-01-07 08:52:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 22.0,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601080006",
+    "time": "2026-01-08 20:05:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 39.38,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601100007",
+    "time": "2026-01-10 12:00:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 35.0,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601120008",
+    "time": "2026-01-12 15:12:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 29.0,
+    "listed": 29.0,
+    "items": [
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601120009",
+    "time": "2026-01-12 19:12:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 33.5,
+    "listed": 33.5,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601130010",
+    "time": "2026-01-13 19:37:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 26.6,
+    "listed": 30.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601140011",
+    "time": "2026-01-14 18:18:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 41.32,
+    "listed": 46.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601160012",
+    "time": "2026-01-16 13:45:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 32.25,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601190013",
+    "time": "2026-01-19 22:52:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 37.0,
+    "listed": 37.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601200014",
+    "time": "2026-01-20 08:12:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 20.75,
+    "listed": 29.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601220015",
+    "time": "2026-01-22 11:12:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 37.4,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601250016",
+    "time": "2026-01-25 12:37:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 18.0,
+    "listed": 18.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601270017",
+    "time": "2026-01-27 20:45:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 38.16,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601280018",
+    "time": "2026-01-28 09:18:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 11.04,
+    "listed": 12.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601290019",
+    "time": "2026-01-29 14:00:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 15.0,
+    "listed": 20.0,
+    "items": [
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601300020",
+    "time": "2026-01-30 16:52:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 37.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202601310021",
+    "time": "2026-01-31 16:00:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 37.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602020022",
+    "time": "2026-02-02 14:45:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 18.38,
+    "listed": 24.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602020023",
+    "time": "2026-02-02 23:23:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 43.0,
+    "listed": 43.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602040024",
+    "time": "2026-02-04 11:18:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 44.5,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602060026",
+    "time": "2026-02-06 07:30:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 21.1,
+    "listed": 26.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602060025",
+    "time": "2026-02-06 15:52:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 29.5,
+    "listed": 29.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602070027",
+    "time": "2026-02-07 20:00:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 31.9,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602080028",
+    "time": "2026-02-08 11:45:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 32.0,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602090029",
+    "time": "2026-02-09 11:12:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 47.5,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602090030",
+    "time": "2026-02-09 15:18:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 22.0,
+    "listed": 25.0,
+    "items": [
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602100031",
+    "time": "2026-02-10 18:00:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 31.62,
+    "listed": 43.5,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602120032",
+    "time": "2026-02-12 15:37:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 20.68,
+    "listed": 25.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602140034",
+    "time": "2026-02-14 09:23:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 31.0,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602140033",
+    "time": "2026-02-14 13:12:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 29.4,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602160035",
+    "time": "2026-02-16 19:45:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 32.0,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602180036",
+    "time": "2026-02-18 15:30:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 30.88,
+    "listed": 42.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602190037",
+    "time": "2026-02-19 11:18:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 37.0,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602190038",
+    "time": "2026-02-19 18:00:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 31.0,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602200039",
+    "time": "2026-02-20 11:52:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 25.4,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602210040",
+    "time": "2026-02-21 11:45:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 32.44,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602230041",
+    "time": "2026-02-23 11:12:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 34.62,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202602270042",
+    "time": "2026-02-27 15:23:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 42.5,
+    "listed": 42.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603010043",
+    "time": "2026-03-01 12:00:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 31.3,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603020044",
+    "time": "2026-03-02 13:18:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 36.0,
+    "listed": 36.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603030045",
+    "time": "2026-03-03 13:45:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 39.92,
+    "listed": 46.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603060046",
+    "time": "2026-03-06 12:52:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 18.0,
+    "listed": 18.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603070048",
+    "time": "2026-03-07 08:30:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 24.0,
+    "listed": 24.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603070049",
+    "time": "2026-03-07 19:30:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 44.5,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603070047",
+    "time": "2026-03-07 22:05:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 45.0,
+    "listed": 45.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603080050",
+    "time": "2026-03-08 14:00:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 37.64,
+    "listed": 42.0,
+    "items": [
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603080051",
+    "time": "2026-03-08 19:45:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 45.0,
+    "listed": 50.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603090052",
+    "time": "2026-03-09 15:12:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 25.4,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603100053",
+    "time": "2026-03-10 18:37:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 39.38,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603110054",
+    "time": "2026-03-11 14:12:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 25.25,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603120055",
+    "time": "2026-03-12 12:00:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 37.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603130056",
+    "time": "2026-03-13 13:37:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 48.0,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603160057",
+    "time": "2026-03-16 08:12:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 17.6,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603160058",
+    "time": "2026-03-16 13:05:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 43.0,
+    "listed": 43.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603180059",
+    "time": "2026-03-18 14:37:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 23.22,
+    "listed": 28.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "圆筒冰淇淋",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 4.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603190060",
+    "time": "2026-03-19 18:52:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 36.2,
+    "listed": 46.5,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603210061",
+    "time": "2026-03-21 11:18:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 36.5,
+    "listed": 36.5,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603220062",
+    "time": "2026-03-22 16:00:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 27.12,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "苹果派",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603220063",
+    "time": "2026-03-22 21:52:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 42.2,
+    "listed": 54.0,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      },
+      {
+        "name": "苹果派",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603240065",
+    "time": "2026-03-24 16:23:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 37.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "苹果派",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603240064",
+    "time": "2026-03-24 19:18:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 20.7,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603250066",
+    "time": "2026-03-25 20:30:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 29.0,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603280067",
+    "time": "2026-03-28 16:00:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 31.3,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603280068",
+    "time": "2026-03-28 23:00:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 62.5,
+    "listed": 62.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603300069",
+    "time": "2026-03-30 09:18:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 22.0,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202603310070",
+    "time": "2026-03-31 09:23:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 22.0,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604010071",
+    "time": "2026-04-01 13:18:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 41.24,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604030072",
+    "time": "2026-04-03 15:12:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 24.07,
+    "listed": 29.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604070073",
+    "time": "2026-04-07 16:45:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 25.6,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604100074",
+    "time": "2026-04-10 19:00:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 23.75,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604100075",
+    "time": "2026-04-10 23:23:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 38.0,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604110076",
+    "time": "2026-04-11 11:37:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 28.6,
+    "listed": 37.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604120077",
+    "time": "2026-04-12 13:52:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 36.6,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604120079",
+    "time": "2026-04-12 15:05:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 19.65,
+    "listed": 29.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604120078",
+    "time": "2026-04-12 18:45:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 39.04,
+    "listed": 45.5,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604130081",
+    "time": "2026-04-13 11:18:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 40.36,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604130080",
+    "time": "2026-04-13 16:30:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 17.85,
+    "listed": 21.0,
+    "items": [
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604160082",
+    "time": "2026-04-16 18:05:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 34.5,
+    "listed": 34.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604180083",
+    "time": "2026-04-18 14:37:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 36.0,
+    "listed": 36.0,
+    "items": [
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604200084",
+    "time": "2026-04-20 16:30:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 12.5,
+    "listed": 12.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604250085",
+    "time": "2026-04-25 13:45:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 32.6,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604260087",
+    "time": "2026-04-26 16:52:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 32.44,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604260086",
+    "time": "2026-04-26 18:37:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 36.84,
+    "listed": 43.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604280088",
+    "time": "2026-04-28 16:12:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 34.0,
+    "listed": 34.0,
+    "items": [
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604290089",
+    "time": "2026-04-29 20:00:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 28.04,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202604300090",
+    "time": "2026-04-30 12:45:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 23.5,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605020091",
+    "time": "2026-05-02 12:12:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 30.88,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605030092",
+    "time": "2026-05-03 14:30:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 37.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605050093",
+    "time": "2026-05-05 16:12:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 18.9,
+    "listed": 27.0,
+    "items": [
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "圆筒冰淇淋",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 4.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605050094",
+    "time": "2026-05-05 22:12:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 52.0,
+    "listed": 52.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605080095",
+    "time": "2026-05-08 13:30:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 23.5,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605090096",
+    "time": "2026-05-09 12:12:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 25.0,
+    "listed": 25.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605100097",
+    "time": "2026-05-10 15:18:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 18.48,
+    "listed": 21.0,
+    "items": [
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605110098",
+    "time": "2026-05-11 16:18:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 23.0,
+    "listed": 23.0,
+    "items": [
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605130099",
+    "time": "2026-05-13 12:52:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 42.7,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605150100",
+    "time": "2026-05-15 18:23:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 44.0,
+    "listed": 44.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605160101",
+    "time": "2026-05-16 18:23:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 27.0,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605190102",
+    "time": "2026-05-19 12:45:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 37.67,
+    "listed": 45.5,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605200103",
+    "time": "2026-05-20 12:23:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 35.0,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605210104",
+    "time": "2026-05-21 13:30:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 35.38,
+    "listed": 48.5,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605230106",
+    "time": "2026-05-23 14:12:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 18.75,
+    "listed": 25.0,
+    "items": [
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605230105",
+    "time": "2026-05-23 21:45:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 32.6,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605240107",
+    "time": "2026-05-24 11:18:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 32.0,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605250109",
+    "time": "2026-05-25 11:37:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 42.0,
+    "listed": 42.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605250108",
+    "time": "2026-05-25 19:52:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 32.0,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605260110",
+    "time": "2026-05-26 14:45:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 43.0,
+    "listed": 43.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605280111",
+    "time": "2026-05-28 20:05:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 24.9,
+    "listed": 37.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605300113",
+    "time": "2026-05-30 12:45:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 18.0,
+    "listed": 18.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202605300112",
+    "time": "2026-05-30 20:52:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 44.0,
+    "listed": 44.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606010114",
+    "time": "2026-06-01 15:23:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 32.0,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606030115",
+    "time": "2026-06-03 09:45:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 8.4,
+    "listed": 12.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606050116",
+    "time": "2026-06-05 09:45:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 15.0,
+    "listed": 15.0,
+    "items": [
+      {
+        "name": "猪柳蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 15.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606080117",
+    "time": "2026-06-08 12:23:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 40.8,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606090118",
+    "time": "2026-06-09 14:45:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 19.8,
+    "listed": 26.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606100119",
+    "time": "2026-06-10 11:52:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 28.75,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606110120",
+    "time": "2026-06-11 12:18:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 31.56,
+    "listed": 37.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606120121",
+    "time": "2026-06-12 13:05:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 47.0,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606150122",
+    "time": "2026-06-15 07:45:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 22.0,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606160123",
+    "time": "2026-06-16 07:05:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 14.0,
+    "listed": 14.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606170124",
+    "time": "2026-06-17 16:52:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 32.15,
+    "listed": 39.0,
+    "items": [
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606210125",
+    "time": "2026-06-21 13:18:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 43.0,
+    "listed": 43.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606220126",
+    "time": "2026-06-22 11:00:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 27.52,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606230127",
+    "time": "2026-06-23 11:37:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 39.38,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606240128",
+    "time": "2026-06-24 18:52:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 28.0,
+    "listed": 28.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606250129",
+    "time": "2026-06-25 18:23:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 44.5,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606260130",
+    "time": "2026-06-26 11:45:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 42.56,
+    "listed": 49.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606280131",
+    "time": "2026-06-28 15:12:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 33.5,
+    "listed": 37.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606290133",
+    "time": "2026-06-29 11:23:00",
+    "channel": "delivery",
+    "store": "万象天地店",
+    "paid": 42.24,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202606290132",
+    "time": "2026-06-29 19:05:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 25.25,
+    "listed": 35.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607030134",
+    "time": "2026-07-03 13:05:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 37.4,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607040135",
+    "time": "2026-07-04 13:37:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 31.55,
+    "listed": 46.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607050136",
+    "time": "2026-07-05 07:00:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 10.5,
+    "listed": 15.0,
+    "items": [
+      {
+        "name": "猪柳蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 15.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607090137",
+    "time": "2026-07-09 15:05:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 25.4,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "苹果派",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607090138",
+    "time": "2026-07-09 18:45:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 45.5,
+    "listed": 45.5,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607140139",
+    "time": "2026-07-14 09:00:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 16.5,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607150140",
+    "time": "2026-07-15 15:37:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 30.0,
+    "listed": 30.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607160141",
+    "time": "2026-07-16 12:12:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 24.6,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607170142",
+    "time": "2026-07-17 13:12:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 32.25,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607200143",
+    "time": "2026-07-20 15:30:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 27.6,
+    "listed": 32.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "苹果派",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607240144",
+    "time": "2026-07-24 12:45:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 34.0,
+    "listed": 34.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607250145",
+    "time": "2026-07-25 19:05:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 33.0,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607270146",
+    "time": "2026-07-27 13:37:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 33.12,
+    "listed": 45.5,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607280147",
+    "time": "2026-07-28 09:05:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 19.4,
+    "listed": 24.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607290148",
+    "time": "2026-07-29 12:12:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 29.38,
+    "listed": 40.5,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202607310149",
+    "time": "2026-07-31 13:12:00",
+    "channel": "dine_in",
+    "store": "海岸城店",
+    "paid": 44.5,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608010150",
+    "time": "2026-08-01 13:18:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 40.36,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608030151",
+    "time": "2026-08-03 11:00:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 33.0,
+    "listed": 33.0,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608050152",
+    "time": "2026-08-05 16:18:00",
+    "channel": "delivery",
+    "store": "科技园店",
+    "paid": 18.86,
+    "listed": 20.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608070154",
+    "time": "2026-08-07 09:18:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 22.0,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608070153",
+    "time": "2026-08-07 11:45:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 41.0,
+    "listed": 41.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608100155",
+    "time": "2026-08-10 11:05:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 48.0,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608140156",
+    "time": "2026-08-14 12:30:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 32.0,
+    "listed": 32.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608150157",
+    "time": "2026-08-15 23:23:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 52.0,
+    "listed": 52.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      },
+      {
+        "name": "圆筒冰淇淋",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 4.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608170158",
+    "time": "2026-08-17 08:00:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 16.8,
+    "listed": 24.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608190159",
+    "time": "2026-08-19 11:12:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 31.0,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608200160",
+    "time": "2026-08-20 13:30:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 26.28,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608220162",
+    "time": "2026-08-22 08:05:00",
+    "channel": "dine_in",
+    "store": "龙华壹方城店",
+    "paid": 9.8,
+    "listed": 14.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608220161",
+    "time": "2026-08-22 19:45:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 47.5,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608230163",
+    "time": "2026-08-23 12:37:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 45.5,
+    "listed": 45.5,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "橙汁",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608250165",
+    "time": "2026-08-25 09:12:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 18.0,
+    "listed": 24.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608250164",
+    "time": "2026-08-25 19:37:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 39.38,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608260166",
+    "time": "2026-08-26 18:00:00",
+    "channel": "delivery",
+    "store": "车公庙店",
+    "paid": 28.92,
+    "listed": 34.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608270167",
+    "time": "2026-08-27 18:37:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 36.6,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202608280168",
+    "time": "2026-08-28 12:52:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 37.0,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609010169",
+    "time": "2026-09-01 21:30:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 21.88,
+    "listed": 26.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "新地（巧克力）",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 8.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609020170",
+    "time": "2026-09-02 12:23:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 47.0,
+    "listed": 47.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609030171",
+    "time": "2026-09-03 20:12:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 28.92,
+    "listed": 34.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609060172",
+    "time": "2026-09-06 14:05:00",
+    "channel": "dine_in",
+    "store": "科技园店",
+    "paid": 28.0,
+    "listed": 28.0,
+    "items": [
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609070173",
+    "time": "2026-09-07 11:52:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 47.5,
+    "listed": 47.5,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "雪碧（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609080174",
+    "time": "2026-09-08 16:05:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 32.15,
+    "listed": 39.0,
+    "items": [
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609090175",
+    "time": "2026-09-09 12:00:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 38.0,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609110176",
+    "time": "2026-09-11 13:23:00",
+    "channel": "delivery",
+    "store": "海岸城店",
+    "paid": 24.9,
+    "listed": 37.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609130177",
+    "time": "2026-09-13 12:45:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 39.0,
+    "listed": 39.0,
+    "items": [
+      {
+        "name": "麦香鱼",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 18.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609140178",
+    "time": "2026-09-14 19:52:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 44.5,
+    "listed": 44.5,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609150179",
+    "time": "2026-09-15 14:52:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 24.5,
+    "listed": 24.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      },
+      {
+        "name": "鲜煮咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609160180",
+    "time": "2026-09-16 12:30:00",
+    "channel": "delivery",
+    "store": "机场 T3 店",
+    "paid": 15.4,
+    "listed": 22.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609170181",
+    "time": "2026-09-17 19:05:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 27.7,
+    "listed": 41.0,
+    "items": [
+      {
+        "name": "双层吉士汉堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 22.0
+      },
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609230182",
+    "time": "2026-09-23 11:00:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 35.0,
+    "listed": 48.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609240183",
+    "time": "2026-09-24 08:05:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 23.8,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609250184",
+    "time": "2026-09-25 09:12:00",
+    "channel": "delivery",
+    "store": "龙华壹方城店",
+    "paid": 9.0,
+    "listed": 12.0,
+    "items": [
+      {
+        "name": "早餐卷",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 12.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609290185",
+    "time": "2026-09-29 14:52:00",
+    "channel": "delivery",
+    "store": "深南天虹店",
+    "paid": 30.2,
+    "listed": 39.0,
+    "items": [
+      {
+        "name": "玉米杯",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 9.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202609300186",
+    "time": "2026-09-30 08:18:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 22.25,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610010187",
+    "time": "2026-10-01 07:30:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 14.0,
+    "listed": 14.0,
+    "items": [
+      {
+        "name": "烟肉蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 14.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610020188",
+    "time": "2026-10-02 13:23:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 33.5,
+    "listed": 46.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "蔬菜沙拉",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610030189",
+    "time": "2026-10-03 16:23:00",
+    "channel": "dine_in",
+    "store": "深南天虹店",
+    "paid": 10.0,
+    "listed": 12.5,
+    "items": [
+      {
+        "name": "麦乐鸡（5块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 12.5
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610040190",
+    "time": "2026-10-04 11:30:00",
+    "channel": "dine_in",
+    "store": "车公庙店",
+    "paid": 30.28,
+    "listed": 34.0,
+    "items": [
+      {
+        "name": "板烧鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 24.0
+      },
+      {
+        "name": "可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610050191",
+    "time": "2026-10-05 21:18:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 44.6,
+    "listed": 57.0,
+    "items": [
+      {
+        "name": "麦辣鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 23.0
+      },
+      {
+        "name": "薯条（中）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 11.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      },
+      {
+        "name": "麦旋风",
+        "category": "甜品",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610070193",
+    "time": "2026-10-07 08:18:00",
+    "channel": "dine_in",
+    "store": "机场 T3 店",
+    "paid": 15.0,
+    "listed": 15.0,
+    "items": [
+      {
+        "name": "猪柳蛋麦满分",
+        "category": "早餐",
+        "qty": 1,
+        "unitPrice": 15.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610070192",
+    "time": "2026-10-07 18:37:00",
+    "channel": "delivery",
+    "store": "欢乐颂店",
+    "paid": 25.35,
+    "listed": 31.0,
+    "items": [
+      {
+        "name": "原味鸡腿堡",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 21.0
+      },
+      {
+        "name": "无糖可乐（中）",
+        "category": "饮料",
+        "qty": 1,
+        "unitPrice": 10.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610100194",
+    "time": "2026-10-10 15:30:00",
+    "channel": "dine_in",
+    "store": "万象天地店",
+    "paid": 26.6,
+    "listed": 30.0,
+    "items": [
+      {
+        "name": "麦辣鸡翅（2块）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      },
+      {
+        "name": "拿铁咖啡",
+        "category": "咖啡",
+        "qty": 1,
+        "unitPrice": 17.0
+      }
+    ]
+  },
+  {
+    "orderId": "MC202610110195",
+    "time": "2026-10-11 11:52:00",
+    "channel": "dine_in",
+    "store": "欢乐颂店",
+    "paid": 31.3,
+    "listed": 38.0,
+    "items": [
+      {
+        "name": "巨无霸",
+        "category": "汉堡",
+        "qty": 1,
+        "unitPrice": 25.0
+      },
+      {
+        "name": "薯条（大）",
+        "category": "小食",
+        "qty": 1,
+        "unitPrice": 13.0
+      }
+    ]
+  }
+]

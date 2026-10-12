@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+
+# 项目运行产物
+*.html
+*.json
+!examples/*.html
+!examples/*.json
+
+# 敏感信息（Token 等只允许通过环境变量注入）
+.env
+.envrc
+*.pem
