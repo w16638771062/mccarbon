@@ -21,6 +21,7 @@ build/
 *.json
 !examples/*.html
 !examples/*.json
+!mcp-config.example.json
 
 # 敏感信息（Token 等只允许通过环境变量注入）
 .env
