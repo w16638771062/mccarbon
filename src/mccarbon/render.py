@@ -108,7 +108,7 @@ def summarize(
         ("订单笔数", f"{report.order_count} 单"),
         ("餐品件数", f"{report.item_count} 件"),
         ("单均排放", f"{_kg(report.avg_per_order_kg)} kg CO2e"),
-        ("因子覆盖率", f"{report.rated_share:.0f}%（其余按类别中值外推）"),
+        ("具名因子覆盖率", f"{report.rated_share:.0f}%（其余按碳类别中值兜底）"),
     ]
     for label, value in overview:
         lines.append(f"  {_pad(label, 14)}{value}")
@@ -138,7 +138,7 @@ def summarize(
 
     lines.append("【最碳重单品 Top 5】")
     for index, dish in enumerate(report.top_dishes[:5], start=1):
-        tag = {"measured": "实测", "est": "外推", "class": "类别"}.get(dish.basis, "")
+        tag = {"measured": "实测", "est": "具名", "class": "类别兜底"}.get(dish.basis, "")
         lines.append(
             f"  {index}. {_pad(dish.name, 18)}{dish.qty:>3} 份   {_kg(dish.total_kg):>7} kg   [{tag}]"
         )
